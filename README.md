@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LindaMbuthini
 - 👀 I’m interested in coding and modelling
-- 🌱 I’m currently learning R statistics 
-- 💞️ I’m looking to collaborate on HTA modelling
+- 🌱 I’m currently learning R statistics and Phython
+- 💞️ I’m looking to collaborate on HTA modelling, Data Analysis and Programing
 - 📫 How to reach me email mbuthini@gmail.com
 
 <!---
